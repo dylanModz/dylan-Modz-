@@ -1,65 +1,65 @@
-# Dylan Modz
+<!-- ============================================= -->
+<!-- PERFIL OFICIAL — DYLAN MODZ / TOKITO APIS     -->
+<!-- ============================================= -->
 
-### Desenvolvedor de APIs, bots, automações e sistemas web.
+<div align="center">
 
-Desenvolvo soluções completas utilizando **JavaScript e Node.js**, com foco em desempenho, estabilidade, segurança e facilidade de manutenção.
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:050A12,45:0757FF,100:00BFFF&text=Dylan%20Modz&fontColor=FFFFFF&fontSize=44&fontAlignY=35&animation=fadeIn&desc=APIs%20%E2%80%A2%20Bots%20%E2%80%A2%20Automa%C3%A7%C3%B5es%20%E2%80%A2%20Sistemas&descSize=17&descAlignY=57"
+/>
 
-Meu trabalho é voltado para projetos reais, desde a estrutura inicial até a implementação de painéis administrativos, sistemas de usuários, pagamentos, integrações e gerenciamento de APIs.
+<br>
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=4EA1FF&center=true&vCenter=true&repeat=true&width=720&height=60&lines=Desenvolvendo+solucoes+para+projetos+reais;APIs+rapidas%2C+organizadas+e+confiaveis;Bots+e+automacoes+com+Node.js;Criador+da+plataforma+Tokito+APIs"
+    alt="Apresentação animada"
+  />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00BFFF?style=for-the-badge&labelColor=07111F">
+<img src="https://img.shields.io/badge/FOCO-APIs%20E%20AUTOMA%C3%87%C3%95ES-0757FF?style=for-the-badge&labelColor=07111F">
+<img src="https://img.shields.io/badge/AMBIENTE-PRODU%C3%87%C3%83O-0078FF?style=for-the-badge&labelColor=07111F">
+
+</div>
+
+<br>
 
 ---
 
-## Sobre mim
+<div align="center">
 
-Sou desenvolvedor focado na criação de ferramentas que simplificam processos, conectam serviços e automatizam tarefas.
+## `> SOBRE MIM`
 
-Trabalho principalmente com:
+</div>
 
-- APIs REST e microsserviços.
-- Bots e automações para WhatsApp.
-- Sistemas de usuários e autenticação.
-- Painéis administrativos.
-- Gerenciamento de chaves de API.
-- Controle de requisições e planos.
-- Integrações com sistemas de pagamento.
-- Bancos de dados e armazenamento.
-- Monitoramento de atividades e registros.
-- Integração com serviços externos.
-- Aplicações e ferramentas para ambientes de produção.
+Desenvolvedor focado na criação de **APIs, bots, automações e plataformas web** utilizando principalmente JavaScript e Node.js.
 
-Busco desenvolver sistemas organizados, modernos e preparados para crescer de forma segura.
+Crio sistemas voltados para uso real, buscando entregar uma estrutura organizada, rápida, segura e preparada para crescimento.
 
----
+Meu trabalho envolve desde a criação da lógica interna até o desenvolvimento de painéis administrativos, sistemas de usuários, autenticação, pagamentos, gerenciamento de serviços e integração entre diferentes plataformas.
 
-## Tecnologias
+<br>
 
-### Desenvolvimento
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- JavaScript
-- Node.js
-- Express
-- HTML
-- CSS
-- REST APIs
-- JSON
+### ⚡ O que desenvolvo
 
-### Bots e automações
-
-- Baileys
-- WebSockets
-- Processamento de eventos
-- Integração com APIs
-- Automação de tarefas
-
-### Infraestrutura e ferramentas
-
-- Git
-- GitHub
-- Linux
-- Docker
-- Redis
-- Gerenciamento de processos
-- Variáveis de ambiente
-- Deploy e manutenção de aplicações
+```text
+▸ APIs REST e microsserviços
+▸ Bots para WhatsApp
+▸ Automações de processos
+▸ Painéis administrativos
+▸ Sistemas de autenticação
+▸ Gerenciamento de API Keys
+▸ Sistemas de pagamentos
+▸ Integrações entre serviços
+▸ Ferramentas para produção- Deploy e manutenção de aplicações
 
 ---
 
