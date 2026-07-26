@@ -1,110 +1,184 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=6f42c1&section=header"/>
+# Dylan Modz
 
-<h1 align="center">Dylan Modz 👑</h1>
+### Desenvolvedor de APIs, bots, automações e sistemas web.
+
+Desenvolvo soluções completas utilizando **JavaScript e Node.js**, com foco em desempenho, estabilidade, segurança e facilidade de manutenção.
+
+Meu trabalho é voltado para projetos reais, desde a estrutura inicial até a implementação de painéis administrativos, sistemas de usuários, pagamentos, integrações e gerenciamento de APIs.
+
+---
+
+## Sobre mim
+
+Sou desenvolvedor focado na criação de ferramentas que simplificam processos, conectam serviços e automatizam tarefas.
+
+Trabalho principalmente com:
+
+- APIs REST e microsserviços.
+- Bots e automações para WhatsApp.
+- Sistemas de usuários e autenticação.
+- Painéis administrativos.
+- Gerenciamento de chaves de API.
+- Controle de requisições e planos.
+- Integrações com sistemas de pagamento.
+- Bancos de dados e armazenamento.
+- Monitoramento de atividades e registros.
+- Integração com serviços externos.
+- Aplicações e ferramentas para ambientes de produção.
+
+Busco desenvolver sistemas organizados, modernos e preparados para crescer de forma segura.
+
+---
+
+## Tecnologias
+
+### Desenvolvimento
+
+- JavaScript
+- Node.js
+- Express
+- HTML
+- CSS
+- REST APIs
+- JSON
+
+### Bots e automações
+
+- Baileys
+- WebSockets
+- Processamento de eventos
+- Integração com APIs
+- Automação de tarefas
+
+### Infraestrutura e ferramentas
+
+- Git
+- GitHub
+- Linux
+- Docker
+- Redis
+- Gerenciamento de processos
+- Variáveis de ambiente
+- Deploy e manutenção de aplicações
+
+---
+
+## Projeto principal
+
+### Tokito APIs
+
+A **Tokito APIs** é uma plataforma desenvolvida para disponibilizar, documentar e gerenciar APIs utilizadas em bots, sites, aplicativos e outros sistemas.
+
+A plataforma reúne recursos como:
+
+- Painel completo para usuários.
+- Sistema de cadastro e autenticação.
+- Gerenciamento de chaves de API.
+- Controle de requisições e limites.
+- Documentação integrada.
+- Histórico de uso.
+- Planos e assinaturas.
+- Sistema de pagamentos.
+- Painel administrativo.
+- Gerenciamento de usuários.
+- Controle de rotas e serviços.
+- Monitoramento de atividades.
+- Integrações para bots e aplicações externas.
+
+**Acesse o site:**
+
+https://tokito-apis.com.br
+
+---
+
+## Desenvolvimento de bots
+
+Também trabalho no desenvolvimento de bots para WhatsApp utilizando **Node.js e Baileys**.
+
+Os projetos podem incluir:
+
+- Comandos administrativos.
+- Gerenciamento de grupos.
+- Sistemas de boas-vindas.
+- Proteção contra divulgação.
+- Downloads de músicas e vídeos.
+- Integração com APIs externas.
+- Menus personalizados.
+- Sistemas de usuários.
+- Comandos interativos.
+- Jogos e entretenimento.
+- Automação de atendimentos.
+- Sistemas de pagamentos.
+- Controle de permissões.
+- Registros e configurações personalizadas.
+
+Cada projeto é desenvolvido buscando manter uma estrutura clara, organizada e simples de configurar.
+
+---
+
+## Sistemas e automações
+
+Desenvolvo ferramentas para automatizar tarefas repetitivas e facilitar o gerenciamento de serviços.
+
+Alguns exemplos:
+
+- Integração entre diferentes plataformas.
+- Processamento automático de solicitações.
+- Sistemas de notificações.
+- Gerenciamento de contas e permissões.
+- Controle de assinaturas e pagamentos.
+- Monitoramento de serviços.
+- Registro de atividades.
+- Geração e validação de chaves.
+- Filas de processamento.
+- Painéis para acompanhamento de resultados.
+
+---
+
+## Princípios de desenvolvimento
+
+Nos meus projetos, priorizo:
+
+- Código organizado e legível.
+- Estruturas fáceis de manter.
+- Tratamento adequado de erros.
+- Segurança de informações sensíveis.
+- Validação de dados.
+- Desempenho e estabilidade.
+- Interfaces simples e funcionais.
+- Compatibilidade com dispositivos móveis.
+- Facilidade de configuração.
+- Preparação para crescimento.
+- Experiência real de uso.
+
+---
+
+## Atualmente
+
+Atualmente estou trabalhando na evolução da **Tokito APIs**, implementando novas funcionalidades, melhorando o desempenho da plataforma e expandindo suas integrações.
+
+O objetivo é oferecer uma estrutura completa para desenvolvedores que precisam utilizar APIs em bots, sites e aplicações próprias.
+
+---
+
+## Contato
+
+Para suporte, projetos ou parcerias:
+
+**Website**
+
+https://tokito-apis.com.br
+
+**WhatsApp**
+
+https://wa.me/5511975431163
+
+---
 
 <p align="center">
-  Desenvolvedor de bots, APIs e automações em JavaScript.<br>
-  Sempre buscando desempenho, estabilidade e simplicidade.
+  Desenvolvido por <strong>Dylan Modz</strong>
 </p>
 
----
-
-## 📈 Activity Overview
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0d1117&color=c9d1d9&line=a970ff&point=ffffff&area=true&hide_border=true&custom_title=Minhas%20contribuições"/>
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=donut&theme=midnight-purple&hide_border=true&langs_count=6"/>
-
-</div>
-
----
-
-## 👨🏻‍💻 Sobre mim
-
-Sou desenvolvedor focado na criação de bots para WhatsApp, APIs, sistemas de automação e painéis administrativos.
-
-Busco criar projetos rápidos, organizados, fáceis de configurar e preparados para uso real.
-
----
-
-## 🛠️ Tecnologias que utilizo
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff">
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ffffff">
-<img src="https://img.shields.io/badge/Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=ffffff">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff">
-<img src="https://img.shields.io/badge/REST_API-6F42C1?style=for-the-badge&logo=fastapi&logoColor=ffffff">
-
-</div>
-
----
-
-## 🌟 Principais projetos
-
-### 🔗 Tokito APIs
-
-> Plataforma de APIs desenvolvida para bots, sites e sistemas de automação, com painel de usuários, gerenciamento de chaves e documentação integrada.
-
-[🌐 Acessar projeto](https://tokito-apis.com.br)
-
-### 🤖 Tokito Bot
-
-> Bot para WhatsApp desenvolvido em Node.js, com comandos administrativos, downloads, inteligência artificial, jogos e integração com APIs.
-
-[📁 Ver repositório](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO)
-
-### 🧠 Tokito IA
-
-> Sistema de inteligência artificial integrado aos projetos da Tokito APIs, criado para atendimento, suporte e geração de códigos.
-
-[📁 Ver projeto](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO)
-
----
-
-## 🚀 O que construo?
-
-- APIs e microsserviços em Node.js.
-- Bots para WhatsApp utilizando Baileys.
-- Painéis administrativos e sistemas de usuários.
-- Integrações com inteligência artificial.
-- Automações para tarefas repetitivas.
-- Sistemas de pagamentos, chaves e assinaturas.
-
----
-
-## 📫 Redes e contato
-
-<div align="center">
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](LINK_DO_YOUTUBE)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](LINK_DO_INSTAGRAM)
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](LINK_DO_WHATSAPP)
-
-[![Website](https://img.shields.io/badge/Tokito_APIs-6F42C1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tokito-apis.com.br)
-
-</div>
-
----
-
-<div align="center">
-
-### 👑 Dev: Dylan Modz
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=6f42c1&section=footer" width="100%"/>
-
-</div>
+<p align="center">
+  © Dylan Modz — Todos os direitos reservados.
+</p>
