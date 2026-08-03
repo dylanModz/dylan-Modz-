@@ -34,7 +34,7 @@
 </a>
 
 <img
-  src="https://komarev.com/ghpvc/?username=dylanModz&label=Visualizacoes&color=6F42C1&style=flat-square"
+  src="https://komarev.com/ghpvc/?username=dylan-Modz&label=Visualizacoes&color=6F42C1&style=flat-square"
   alt="Visualizações do perfil"
 />
 
